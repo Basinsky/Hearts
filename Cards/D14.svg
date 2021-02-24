@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="95.25mm"
+   height="142.875mm"
+   viewBox="0 0 95.25 142.875"
+   version="1.1"
+   id="svg14792"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="D4.svg">
+  <defs
+     id="defs14786" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="780.7144"
+     inkscape:cy="528.57138"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata14789">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Laag 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(100.73069,-8.3154911)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-100.73069,-127.24642)"
+       id="g336">
+      <rect
+         x="0.5"
+         y="512.85999"
+         width="359"
+         height="539"
+         rx="29.944"
+         fill="#ffffff"
+         stroke="#000000"
+         id="rect316" />
+      <g
+         fill="#ff5555"
+         id="g334">
+        <path
+           d="m 100,562.36 c 0,0 8,13.333 17.333,22.667 9.333,9.333 22.667,17.333 22.667,17.333 0,0 -13.333,8 -22.667,17.333 -9.33,9.34 -17.33,22.67 -17.33,22.67 0,0 -8,-13.333 -17.333,-22.667 -9.333,-9.33 -22.667,-17.33 -22.667,-17.33 0,0 13.333,-8 22.667,-17.333 9.333,-9.34 17.333,-22.67 17.333,-22.67"
+           id="path318" />
+        <path
+           d="m 260,562.36 c 0,0 8,13.333 17.333,22.667 9.333,9.333 22.667,17.333 22.667,17.333 0,0 -13.333,8 -22.667,17.333 -9.33,9.34 -17.33,22.67 -17.33,22.67 0,0 -8,-13.333 -17.333,-22.667 -9.34,-9.33 -22.67,-17.33 -22.67,-17.33 0,0 13.333,-8 22.667,-17.333 9.33,-9.34 17.33,-22.67 17.33,-22.67"
+           id="path320" />
+        <path
+           d="m 100,922.36 c 0,0 8,13.333 17.333,22.667 9.333,9.333 22.667,17.333 22.667,17.333 0,0 -13.333,8 -22.667,17.333 -9.33,9.34 -17.33,22.71 -17.33,22.71 0,0 -8,-13.333 -17.333,-22.667 -9.333,-9.37 -22.667,-17.37 -22.667,-17.37 0,0 13.333,-8 22.667,-17.333 9.333,-9.34 17.333,-22.67 17.333,-22.67"
+           id="path322" />
+        <path
+           d="m 260,922.36 c 0,0 8,13.333 17.333,22.667 9.333,9.333 22.667,17.333 22.667,17.333 0,0 -13.333,8 -22.667,17.333 -9.33,9.34 -17.33,22.71 -17.33,22.71 0,0 -8,-13.333 -17.333,-22.667 -9.34,-9.37 -22.67,-17.37 -22.67,-17.37 0,0 13.333,-8 22.667,-17.333 9.33,-9.34 17.33,-22.67 17.33,-22.67"
+           id="path324" />
+        <path
+           d="m 330,932.36 c 0,0 3,5 6.5,8.5 3.5,3.5 8.5,6.5 8.5,6.5 0,0 -5,3 -8.5,6.5 -3.5,3.5 -6.5,8.5 -6.5,8.5 0,0 -3,-5 -6.5,-8.5 -3.5,-3.5 -8.5,-6.5 -8.5,-6.5 0,0 5,-3 8.5,-6.5 3.5,-3.5 6.5,-8.5 6.5,-8.5"
+           id="path326" />
+        <path
+           d="m 30,602.36 c 0,0 3,5 6.5,8.5 3.5,3.5 8.5,6.5 8.5,6.5 0,0 -5,3 -8.5,6.5 -3.5,3.5 -6.5,8.5 -6.5,8.5 0,0 -3,-5 -6.5,-8.5 -3.5,-3.5 -8.5,-6.5 -8.5,-6.5 0,0 5,-3 8.5,-6.5 3.5,-3.5 6.5,-8.5 6.5,-8.5"
+           id="path328" />
+        <path
+           d="m 30,542.36 -10,35 v 5 h 12 v 10 h 5 v -10 h 3 v -5 h -3 v -15 h -5 v 15 h -6.8 l 10,-35 z"
+           id="path330" />
+        <path
+           d="m 330,1022.4 10,-35 v -5 h -12 v -10 h -5 v 10 h -3 v 5 h 3 v 15 h 5 v -15 h 6.8 l -10,35 z"
+           id="path332" />
+      </g>
+    </g>
+  </g>
+</svg>
